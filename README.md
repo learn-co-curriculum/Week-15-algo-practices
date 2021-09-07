@@ -1,6 +1,7 @@
-# Week-15-algo-practices
+# Week 15 Algo Practices
 
-More Practice:
+Here are some hand-picked algorithms to practice with:
+
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
   - First just solve it however possible. BONUS: Use DP to solve. Calculate Big-O.
 - [House Robber](https://leetcode.com/problems/house-robber/)
